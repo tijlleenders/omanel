@@ -16,6 +16,24 @@
   "data": [
     {
       "img": [
+        "imgs/___welkom.jpg",
+        [
+          1167,
+          1200
+        ]
+      ],
+      "blur": "blurs/___welkom.jpg",
+      "stamp": 1,
+      "thumb": [
+        "thumbs/___welkom.jpg",
+        [
+          150,
+          154
+        ]
+      ]
+    },
+    {
+      "img": [
         "imgs/IMG_20250405_182015_534.jpg",
         [
           1519,
@@ -1529,24 +1547,6 @@
         ]
       ],
       "stamp": 74
-    },
-    {
-      "img": [
-        "imgs/___welkom.jpg",
-        [
-          1167,
-          1200
-        ]
-      ],
-      "blur": "blurs/___welkom.jpg",
-      "stamp": 1,
-      "thumb": [
-        "thumbs/___welkom.jpg",
-        [
-          150,
-          154
-        ]
-      ]
     },
     {
       "blur": "blurs/XX_outro.jpg",
